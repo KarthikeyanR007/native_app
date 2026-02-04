@@ -7,6 +7,7 @@ const SETTINGS = [
   { id: 4, label: 'Help & Support' },
 ];
 
+// Profile Settings Component
 export default function ProfileSettings() {
   return (
     <View>
